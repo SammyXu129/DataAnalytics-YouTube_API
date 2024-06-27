@@ -1,0 +1,2 @@
+google_api_python_client==2.134.0
+ipython==8.12.3
